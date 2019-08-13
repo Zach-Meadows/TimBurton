@@ -109,8 +109,9 @@ function christmasTown() {
 		const appearance = {
 			goodFeeling: "all around"
 		}
-
 	};
-	
-
+	let hear = "screams";
+	hear = "music in the air";
+	everywhere.smellOfCakes = true;
+	everywhere.smellOfPies = true;
 }
