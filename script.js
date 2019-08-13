@@ -41,4 +41,40 @@ function christmasTown() {
 	const myBones{
 		feel: document.getElementById('inside').innerHTML
 	}
+	let exclamation = "oh, look!";
+	whats = this;
+	they.are = "hanging mistletoe";
+	they.kiss = true;
+	const that = {
+		looks: "so unique"
+	}
+	let i = "inspired";
+	they.are = "gathering around to hear a story";
+	they.areAlso ="roasting chestnuts on a fire";
+	whats = this;
+	whats = this;
+	const here {
+		tree: {
+			size: "little"
+		},
+		appearance: "queer"
+	}
+	let they = {
+		are: function(){
+  			here.tree.covered = true;
+  			here.tree.coveredWith = "tiny little things";
+		},
+		got: {
+			electricLights{
+				on: "strings"
+			}
+		}
+	}
+	const everyone {
+		smile: true
+	}
+	if (i === false) {
+		me = "correct"
+	};
+
 }
