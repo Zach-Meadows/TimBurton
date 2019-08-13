@@ -97,5 +97,20 @@ function christmasTown() {
 	there.are = {}
 	there.are.ghouls = {here: false, scream: true, scare: true, canEnsnare: true}
 	there.are.witches = {here: false, scream: true, scare: true, canEnsnare: true}
-	there.are.only = littleThings
+	there.are.only = {};
+	there.are.only.littleThings = {cozy: true, secure: true, inside: "their dreamland"}
+	whats = this;
+	if (monsters === {
+		missing: true
+	}
+	nightmare === {
+		cantBeFound: true
+	}) {
+		const appearance = {
+			goodFeeling: "all around"
+		}
+
+	};
+	
+
 }
