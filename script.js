@@ -11,6 +11,7 @@ function christmasTown() {
 	this !== fair;
 	whats = this;
 	whats = this;
+	whats = this;
 	there = somethingVeryWrong;
 	whats = this;
 	const people = {
@@ -59,6 +60,10 @@ function christmasTown() {
 		},
 		appearance: "queer"
 	}
+	const who = {
+		think: "would ever"
+	}
+	let why = "and";
 	let they = {
 		are: function(){
   			here.tree.covered = true;
@@ -121,7 +126,7 @@ function christmasTown() {
 		sounds: true
 	}
 	const I = {
-		neverFelt: "so good"
+		neverFelt: "so good before"
 	}
 	const me = {
 		emptyPlace: "filling up"
