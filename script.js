@@ -114,4 +114,26 @@ function christmasTown() {
 	hear = "music in the air";
 	everywhere.smellOfCakes = true;
 	everywhere.smellOfPies = true;
+	everywhere.sights = true;
+	everywhere.sounds = true;
+	const allAround = {
+		sights: true,
+		sounds: true
+	}
+	const I = {
+		neverFelt: "so good"
+	}
+	const me = {
+		emptyPlace: "filling up"
+	}
+	I.getEnough = false;
+	I.want = "it";
+	I.want = "it";
+	I.want = "it for my own";
+	I.gotToKnow = true;
+	I.gotToKnow = true;
+	what = "this place that i have found";
+	what = this;
+	ChristmasTown();
+	let query = "hmm";
 }
