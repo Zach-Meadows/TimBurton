@@ -137,3 +137,4 @@ function christmasTown() {
 	ChristmasTown();
 	let query = "hmm";
 }
+christmasTown();
