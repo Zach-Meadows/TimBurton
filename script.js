@@ -75,6 +75,14 @@ function christmasTown() {
 	}
 	if (i === false) {
 		me = "correct"
-	};
-
+	}
+	const this = {
+		looks: "like fun"
+	}
+	this.looks = "like fun"
+	const it {
+		be: "i got my wish"
+	}
+	whats = this;
+	//oh my, what now?
 }
