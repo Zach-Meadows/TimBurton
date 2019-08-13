@@ -84,5 +84,18 @@ function christmasTown() {
 		be: "i got my wish"
 	}
 	whats = this;
-	//oh my, what now?
+	exclamation = "oh my, what now";
+	children.asleep = true;
+	function look() {
+		let there = {
+			underneath: nothing
+		}
+		return there;
+	}
+	look();
+	let there = look()
+	there.are = {}
+	there.are.ghouls = {here: false, scream: true, scare: true, canEnsnare: true}
+	there.are.witches = {here: false, scream: true, scare: true, canEnsnare: true}
+	there.are.only = littleThings
 }
